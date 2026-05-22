@@ -35,3 +35,4 @@ El script genera un gráfico de evolución de ventas dentro de la carpeta result
 ## Mejoras realizadas
 
 Se agregaron comentarios y organización del proyecto para mejorar la documentación.
+Inicio desarrollo analisis TP
